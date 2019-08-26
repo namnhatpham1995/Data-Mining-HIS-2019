@@ -1,0 +1,6 @@
+print('1a')
+print(combn(7, 3))
+print('1b')
+print(dbinom(7, size=7, prob=0.9))
+print(1-(0.9^6*0.1))
+print('2a')
